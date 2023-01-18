@@ -1,2 +1,4 @@
-$hello = "Hello World"
+<?php
+$hello = "Hello 368";
 echo #hello;
+?>
